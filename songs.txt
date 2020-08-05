@@ -1,0 +1,26 @@
+Space Oddity,David Bowie,1969,5
+Maps,Yeah Yeah Yeahs,2003,4
+The Sweater Song,Weezer,1992,4
+Africa,Weezer,2018,4
+Rock Lobster,The B-52's,1978,4
+Blank Space,Taylor Swift,2014,4
+Once In A Lifetime,Talking Heads,1980,4
+Radioactive,Imagine Dragons,2012,4
+Life is good,Drake,2020,4
+Stressed Out,Twenty One Pilots,2015,3
+Birdhouse In Your Soul,They Might Be Giants,1990,3
+Mr. Brightside,The Killers,2003,3
+Friday I'm In Love,The Cure,1992,3
+Red Sweater,The Aquabats!,1997,3
+I Got You Babe,Sonny & Cher,1965,3
+Where Is My Mind?,Pixies,1988,3
+Float On,Modest Mouse,2004,3
+Good Ol' Fashion Nightmare,Matt & Kim,2009,3
+Beautiful World,Devo,1981,3
+Come together,Chris Brown,2020,3
+I Wanna Be Sedated,The Ramones,1978,2
+A Hard Day's Night,The Beatles,1964,2
+Whip It!,Devo,1980,2
+I Get Around,Beach Boys,1963,2
+The Wind,Cat Stevens,1971,1
+
